@@ -1,0 +1,10 @@
+Package: com.zachary7829.zcustomshortcutactions
+Name: ZCustomShortcutActions
+Author: zachary7829
+Description: Custom Actions in shortcuts test
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Conflicts: firmware (>= 15.0)
+Maintainer: zachary7829
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 0.0.1
